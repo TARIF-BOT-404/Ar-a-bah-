@@ -23,10 +23,10 @@
     "SAMIR": "https://apis-samir.onrender.com",
     "RUBISH": "https://rubish-apihub.onrender.com/rubish"
   },
-  "nickNameBot": " ᴄᴀᴛ 🐰💫",
+  "nickNameBot": " ar a bah 👨🏿‍🌾🪄",
   "prefix": ".",
   "vipUser": [
-    "100090111009775",
+    "100081491574719",
     "",
     "",
     "",
@@ -34,12 +34,12 @@
     ""
   ],
   "orgDEV": [
-    "100090111009775",
+    "100081491574719",
     "",
     ""
   ],
   "adminBot": [
-    "100090111009775",
+    "100081491574719",
     "",
     "",
     "",
@@ -49,19 +49,19 @@
     "",
     "",
     "",
-    "100085332887575",
-    "100086752261805",
-    "100093832717686"
+    "",
+    "",
+    ""
   ],
   "rubishapi": "https://rubish-apihub.onrender.com/rubish",
   "diptoapi": "https://d1pt0-call-bomber.onrender.com/dipto?",
   "GOD": [
-    "100090111009775",
+    "100081491574719",
     "",
     ""
   ],
   "DEV": [
-    "100090111009775",
+    "100081491574719",
     "",
     "",
     ""
@@ -72,7 +72,7 @@
       "",
       "",
       "",
-      ""
+      "100081491574719"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
